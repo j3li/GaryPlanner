@@ -1,5 +1,5 @@
 # GaryPlanner
-GaryPlanner is a web application designed to asisst UCSD students in long-term academic planning by generating a suggested four year plan of all classes that the user still has to enroll in to graduate.  
+GaryPlanner is a web application designed to assist UCSD students in long-term academic planning by generating a suggested four year plan of all classes that the user still has to enroll in to graduate.  
 https://www.youtube.com/watch?v=AetrEdn_Tm4&t=30s
 
 ## Installation Procedure
