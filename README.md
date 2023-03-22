@@ -8,7 +8,7 @@ Install Docker from https://www.docker.com/get-started
 Install Node from https://nodejs.org/en/  
 npm -v: 6.14.8 and above  
 node -v: 14.15.1 and above  
-git clone the repo by `git clone https://github.com/YixuanSeanZhou/GaryPlanner`
+git clone the repo by `https://github.com/j3li/GaryPlanner.git`
 
 Open the project in a terminal: `cd GaryPlanner`
 
